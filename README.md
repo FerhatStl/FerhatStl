@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @FerhatStl
-- 👀 I’m interested in Computer Science and Game Development
-- 🌱 I’m currently learning JAVA
+- 👀 I’m a Computer Engineering Student
+- 🌱 I’m currently learning promting
