@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FerhatStl
+- 👋 Hi, I’m Ferhat Çelik
 - 👀 I’m a Computer Engineering Student
 - 🌱 I’m currently learning ASP.NET Core and Prompt Engineering.
 
