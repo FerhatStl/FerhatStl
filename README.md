@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ferhat Çelik
 - 👀 I’m a newly graduate Computer Engineer with Bachelor's Degree.
-- 🌱 I’m currently learning Computer Vision with Python and react.
+- 🌱 I’m currently focused on Computer Vision with Python and React for front-end.
 
 
 You can check my progress on roadmaps in roadmap.sh here:
